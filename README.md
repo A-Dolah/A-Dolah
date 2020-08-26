@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**A-Dolah/A-Dolah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adam. 
 
-Here are some ideas to get you started:
+I'm working at School of Applied Technology as a Software Development Instructor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prior to working with software development I worked as a lawyer (mainly business law) for about four years. Although I still very much enjoy law, I decided to switch careers and become a professional software developer. 
+
+I'm very curious about coding and spend a lot of my time building applications and improving as a programmer. Many of my current projects are business projects and hence the code is private, but I have a few public projects as well. 
+
+🔭 One project I’m currently working on is an e-commerce store built with React (through Next.js), Styled Components, Apollo, Express, GraphQL, Prisma and PostgreSQL.
+
+🌱 I’m currently learning TypeScript, GraphQL. I'm also curios about Flutter.
+
+📫 How to reach me: email me at adamdolah@gmail.com
+
