@@ -10,7 +10,7 @@ I'm very curious about coding and spend a lot of my time building applications a
 
 🔭 One project I’m currently working on is an e-commerce store built with React (through Next.js), Styled Components, Apollo, Express, GraphQL, Prisma and PostgreSQL.
 
-🌱 I’m currently learning TypeScript, GraphQL. I'm also curios about Flutter.
+🌱 I’m currently learning TypeScript and Apollo. 
 
 📫 How to reach me: email me at adamdolah@gmail.com
 
