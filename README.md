@@ -2,7 +2,7 @@
 
 I'm Adam. 
 
-I'm working at School of Applied Technology as a Software Development Instructor.
+I'm working at Insurely as a frontend developer.
 
 Prior to working with software development I worked as a lawyer (mainly business law) for about four years. Although I still very much enjoy law, I decided to switch careers and become a professional software developer. 
 
